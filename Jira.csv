@@ -1,0 +1,34 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Status
+Subtask,CP-27,10033,List female patients over the age of 40 that have undergone knee surgery in the past year,,,To Do
+Subtask,CP-26,10032,"List patients who have cashless insurance and have total charges greater than or equal for Rs. 50,000",,,To Do
+Subtask,CP-25,10031,List all the patients below age of 18 who admit for cancer,,,To Do
+Subtask,CP-24,10030,Find out Which group is most profitable,,,To Do
+Subtask,CP-23,10029,Average monthly premium subscriber pay to insurance company,,,To Do
+Subtask,CP-22,10028,Which groups of policies subscriber subscribe mostly Government or private,,,To Do
+Subtask,CP-21,10027,From where most claims are coming (city),,,To Do
+Subtask,CP-20,10026,Find out total number of claims which were rejected,,,To Do
+Subtask,CP-19,10025,Find out which subgroups subscribe most number of times,,,To Do
+Subtask,CP-18,10024,Find out hospital which serve most number of patients,,,To Do
+Subtask,CP-17,10023,Find out which group has maximum subgroups,,,To Do
+Subtask,CP-16,10022,Find those Subscribers having age less than 30 and they subscribe any subgroup,,,To Do
+Subtask,CP-15,10021,Which disease has a maximum number of claims.,,,To Do
+Story,CP-14,10020,Task,,,To Do
+Subtask,CP-13,10019,Create separate redshift table for use case output in a redshift schema,,,To Do
+Subtask,CP-12,10018,Create schema in redshift table,,,To Do
+Subtask,CP-11,10017,Upload cleaned data to Redshift,,,To Do
+Subtask,CP-10,10016,Clean group_subgroup data,,,To Do
+Subtask,CP-8,10014,Clean claims data,,,To Do
+Subtask,CP-7,10013,Clean subscriber data,,,To Do
+Subtask,CP-6,10012,Clean patient data,,,To Do
+Subtask,CP-5,10011,Upload data to S3,,,To Do
+Story,CP-4,10010,Implementation,,,To Do
+Subtask,CP-3,10009,Design Document,,,To Do
+Subtask,CP-2,10008,Specification Document,,,To Do
+Story,CP-1,10007,Specification on Design Document,,,To Do
+IT Help,DESK-7,10006,Automatically update linked requests,,,Waiting for support
+IT Help,DESK-6,10005,Linking requests to a Jira Software issue,,,Waiting for support
+Service Request,DESK-5,10004,I need help connecting my laptop to the level 3 printer,saugat basnet,712020:180c746a-d626-4f71-9ae7-b86a2e29b9ca,Resolved
+Service Request with Approvals,DESK-4,10003,Collecting custom request details,,,Waiting for approval
+IT Help,DESK-3,10002,Agents & customers,,,Waiting for support
+Service Request,DESK-2,10001,Capturing customer email requests,,,Waiting for support
+Service Request,DESK-1,10000,What is a request?,saugat basnet,712020:180c746a-d626-4f71-9ae7-b86a2e29b9ca,Waiting for support
